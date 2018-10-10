@@ -2,8 +2,8 @@ import requests
 import itchat
 import re
 
-key = 'd98dbc8b2f784ceb9e11640b87283a62' # 这里是你自己的key
-nickName = '大猫' # 这里是你自己的昵称，如果在修改了群昵称则填写你的群昵称
+key = 'd98dbc8b2f784ceb9e11640b87283a62' # 这里是你自己机器人的apikey
+nickName = '小兔几' # 这里是昵称或群昵称，用于检测群聊是否被艾特
 
 def get_response(msg):
     # 构造了要发送给服务器的数据
