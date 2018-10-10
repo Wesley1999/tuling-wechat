@@ -11,3 +11,7 @@ tuling-wechat.py和tuling-wechat2.py都能单独运行，前者支持教机器�
 数据库用于存储教机器人说话的内容，如果运行tuling-wechat2.py，不需要使用数据库。
 
 tuling.sql文件是创建表的脚本。
+
+
+**你还可以扫码添加微信好友（wsg201810）查看效果**：
+![wechat.jpg](wechat.jpg)
