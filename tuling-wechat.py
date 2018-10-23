@@ -1,3 +1,5 @@
+from time import sleep
+
 import requests
 import itchat
 import re
@@ -45,6 +47,7 @@ def get_response(msg):
 @itchat.msg_register(itchat.content.TEXT)
 def tuling_reply(msg):
     reply = get_response(msg['Text'])
+    sleep(2)
     return reply
 
 # 处理群聊消息
@@ -58,6 +61,7 @@ def tuling_reply(msg):
         # 去掉艾特和名字，以此作为收到的消息
         r = msg['Text'].replace('@' + nickName + " ", '')
         reply = get_response(r)
+        sleep(2)
         return reply
 
     # 针对电脑版
@@ -68,6 +72,7 @@ def tuling_reply(msg):
         # 去掉艾特和名字，以此作为收到的消息
         r = msg['Text'].replace('@' + nickName + " ", '')
         reply = get_response(r)
+        sleep(2)
         return reply
 
     # 针对艾特放在最后
@@ -78,6 +83,7 @@ def tuling_reply(msg):
         # 去掉艾特和名字，以此作为收到的消息
         r = msg['Text'].replace('@' + nickName, '')
         reply = get_response(r)
+        sleep(2)
         return reply
 
 # 教我说话。格式是（teach,收到的消息,回复的消息），英文逗号隔开，后面没有空格

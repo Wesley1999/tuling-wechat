@@ -12,6 +12,8 @@ tuling-wechat.py和tuling-wechat2.py都能单独运行，前者支持教机器�
 
 tuling.sql文件是创建表的脚本。
 
+<font color="red">注意：如果回复过快，有被暂时禁止登录网页版微信的风险，Windows版和手机版不会受到影响。</font>
+
 
 **你还可以扫码添加微信好友（wsg201810）查看效果**：
 ![wechat.jpg](wechat.jpg)
