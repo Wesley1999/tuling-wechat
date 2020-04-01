@@ -1,7 +1,7 @@
 # 快速预览
 
 你可以扫码添加微信好友（wsg201810）查看效果：
-![wechat.jpg](wechat.jpg)
+![](https://oss-pic.wangshaogang.com/0f7a2e6c-1dbe-4acc-a4e6-3d5ffd57dfc0.jpg)
 
 # itchat-anti-WXrecall.py
 
@@ -16,7 +16,9 @@
 http://www.tuling123.com/
 
 ~~免费版每天限量1000条。~~
+
 ~~2019.01.10以后，免费版每天只有100条了。~~
+
 2019.06.05以后，实名认证的账号才能使用。
 
 
