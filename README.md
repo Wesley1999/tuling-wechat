@@ -5,7 +5,7 @@
 
 # itchat-anti-WXrecall.py
 
-自动重发撤回的文字、语音、视频、图片（含包情包）、文件
+自动重发撤回的文字、语音、视频、图片（含包情包）、文件。
 
 # itchat-WXreply.py
 
