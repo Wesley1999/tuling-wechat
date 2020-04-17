@@ -1,6 +1,7 @@
 # 快速预览
 
 你可以扫码添加微信好友（wsg201810）查看效果：
+
 ![](./QR.png)
 
 # itchat-anti-WXrecall.py
