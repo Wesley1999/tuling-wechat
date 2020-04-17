@@ -1,7 +1,7 @@
 # 快速预览
 
 你可以扫码添加微信好友（wsg201810）查看效果：
-![](https://https://oss-pic.wangshaogang.com/1587126524384-c751df24-bba6-4535-bb39-5065be0d93cf.png)
+![](./QR.png)
 
 # itchat-anti-WXrecall.py
 
